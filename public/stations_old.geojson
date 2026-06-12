@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bastille",
+        "line": ["2"],
+        "origin": "The Bastille fortress",
+        "description": "Named after the medieval fortress-prison destroyed during the French Revolution."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.8532, 2.3691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "République",
+        "line": ["3B"],
+        "origin": "French Republic",
+        "description": "Named after Place de la République and republican institutions."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.8675, 2.3638]
+      }
+    }
+  ]
+}

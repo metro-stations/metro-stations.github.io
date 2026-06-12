@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+.layout {
+  display: flex;
+  height: 100vh;
+}
+
+.map {
+  flex: 3;
+}
+
+.sidebar {
+  flex: 1;
+  padding: 24px;
+  overflow-y: auto;
+  border-left: 1px solid #ddd;
+  background: white;
+}
