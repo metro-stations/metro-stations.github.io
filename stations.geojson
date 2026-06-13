@@ -1,0 +1,6169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Clignancourt",
+                "line": [
+                    "4"
+                ],
+                "origin": "Nom du hammeau de Clignancourt, aujourd'hui intégrée à Paris.",
+                "description": "La Porte de Clignancourt était autrefois une porte d'entrée de Paris dans l'enceinte de Thiers, construite au 19ème siècle. Le hammeau de Clignancourt était une propriété de l'abbaye de Saint-Denis",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.897525631278015,
+                    2.344624099102791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Simplon",
+                "line": [
+                    "4"
+                ],
+                "origin": "Son nom vient de la rue Simplon qui est le nom d'un col alpin situé entre la Suisse et l'Italie.",
+                "description": "Napoléon Bonaparte veut aménager le col afin de permettre le passage de l'artillerie française à travers les Alpes. ",
+                "fun_fact": "Entre temps, un tunnel a été construit sous le col, mais les cyclistes continuent d'emprunter le col, notamment lors d'étapes du Tour de Suisse et du Giro d'Italia."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8938152613519,
+                    2.347794968187123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marcadet - Poissonniers",
+                "line": [
+                    "4",
+                    "12"
+                ],
+                "origin": "Cette station résulte de la fusion entre la station Marcadet (ligne 4) et la station Poissonniers (ligne 12).",
+                "description": "",
+                "fun_fact": "La ligne 4 était exploitée par la Compagnie du chemin de fer métropolitain de Paris (CMP), tandis que la ligne 12 était exploitée par la Compagnie du Nord-Sud. Du fait de la rivalité entre les 2 compagnies, le changement entre les 2 stations (bien que très proche) se faisait à l'extérieur."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89141365099539,
+                    2.3497848944227897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ch\u00e2teau Rouge",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88707887746752,
+                    2.3493658080048405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barb\u00e8s - Rochechouart",
+                "line": [
+                    "4",
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.883589075021554,
+                    2.35011850360405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gare du Nord",
+                "line": [
+                    "4",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87959528268362,
+                    2.357055884748471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gare de l'Est",
+                "line": [
+                    "4",
+                    "7",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87626837041498,
+                    2.358009439552456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ch\u00e2teau d'Eau",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87247308911766,
+                    2.3559014497805357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Strasbourg - Saint-Denis",
+                "line": [
+                    "4",
+                    "8",
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.869467713678574,
+                    2.353939153391239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R\u00e9aumur - S\u00e9bastopol",
+                "line": [
+                    "4",
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.866180227422944,
+                    2.352202834468363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Etienne Marcel",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86370301202431,
+                    2.3489761968791085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Halles",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86252665962869,
+                    2.34600573656331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ch\u00e2telet",
+                "line": [
+                    "4",
+                    "7",
+                    "11",
+                    "1",
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85833058612466,
+                    2.3471296874738705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cit\u00e9",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85493384910671,
+                    2.3472322349319112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Michel",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85358493521485,
+                    2.343964657062377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Od\u00e9on",
+                "line": [
+                    "4",
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85204923789096,
+                    2.340275729052531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Germain-des-Pr\u00e9s",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85367371343323,
+                    2.3339874291342255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Sulpice",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85120862756671,
+                    2.330611953081543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Placide",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.847041473609366,
+                    2.3268499626718526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montparnasse Bienvenue",
+                "line": [
+                    "4",
+                    "6",
+                    "12",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84288680474488,
+                    2.3223010264093333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vavin",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84205232329236,
+                    2.3288628540691043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raspail",
+                "line": [
+                    "4",
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83912061616842,
+                    2.3305083271545337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Denfert-Rochereau",
+                "line": [
+                    "4",
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83413095001096,
+                    2.3324456403570366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mouton-Duvernet",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.831382009093616,
+                    2.32979034782274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Al\u00e9sia",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82820106421924,
+                    2.3270932349484528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte d'Orl\u00e9ans",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.823416351140224,
+                    2.3254932653821045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mairie de Montrouge",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.818471900073675,
+                    2.319523835754741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbara",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8097987811254,
+                    2.3174174096489284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bagneux - Lucie Aubrac",
+                "line": [
+                    "4"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.80354822259104,
+                    2.317458362049886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nation",
+                "line": [
+                    "6",
+                    "9",
+                    "2",
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84832961270709,
+                    2.3958932685072702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Picpus",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84501767720269,
+                    2.401248269453829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bel-Air",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84142733223358,
+                    2.400867131995259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Daumesnil",
+                "line": [
+                    "6",
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8396056765266,
+                    2.395859837027911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dugommier",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83903652832887,
+                    2.3895997700798097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bercy",
+                "line": [
+                    "6",
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8401435449468,
+                    2.3792693012421995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quai de la Gare",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8370742706096,
+                    2.372766248948172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chevaleret",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83496308210916,
+                    2.368081282972743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nationale",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83323527967617,
+                    2.3628041715935075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place d'Italie",
+                "line": [
+                    "6",
+                    "7",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.831261752392756,
+                    2.3555704708968817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corvisart",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82986001331238,
+                    2.350611225926166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Glaci\u00e8re",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.831170235245835,
+                    2.3434974927179884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Jacques",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.832916006219165,
+                    2.337154370925007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edgar Quinet",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84098044632817,
+                    2.3253749636089105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pasteur",
+                "line": [
+                    "6",
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8427432015076,
+                    2.3127347130703613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S\u00e8vres-Lecourbe",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84564768265073,
+                    2.309529610430393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cambronne",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84754311219352,
+                    2.3029417283376117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Motte-Picquet - Grenelle",
+                "line": [
+                    "6",
+                    "8",
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.849358810039604,
+                    2.2987282118547907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dupleix",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8504116258067,
+                    2.293663726731039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bir-Hakeim",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85392536837598,
+                    2.2894007376345997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Passy",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85751508962033,
+                    2.285839418881462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trocad\u00e9ro",
+                "line": [
+                    "6",
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86327476741524,
+                    2.2872326288249045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boissi\u00e8re",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8668483434173,
+                    2.2900328376074373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kl\u00e9ber",
+                "line": [
+                    "6"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.871301612039105,
+                    2.2933259179892325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charles de Gaulle - Etoile",
+                "line": [
+                    "6",
+                    "2",
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.874195442971036,
+                    2.2952655901998846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pont de Levallois - B\u00e9con",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89718710383118,
+                    2.2801801985017236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anatole France",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89223258539651,
+                    2.2848122193525104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Louise Michel",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88849338167193,
+                    2.2881680068067354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Champerret",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.885652393133846,
+                    2.2921124821588448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pereire",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88484432273985,
+                    2.2976831860125837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wagram",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88376067556563,
+                    2.3046251407269573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malesherbes",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.882763294053696,
+                    2.3094384103380805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villiers",
+                "line": [
+                    "3",
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.881142728227005,
+                    2.3157882709428588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Europe",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87875316404477,
+                    2.32218591952051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Lazare",
+                "line": [
+                    "3",
+                    "12",
+                    "14",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.875415821935256,
+                    2.325388579532004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Havre-Caumartin",
+                "line": [
+                    "3",
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.873567295661566,
+                    2.327556950921146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Op\u00e9ra",
+                "line": [
+                    "3",
+                    "7",
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8706662115616,
+                    2.3320483065820348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quatre Septembre",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86959592111917,
+                    2.3362786423248583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bourse",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.868738736969725,
+                    2.340651966808331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sentier",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86728343166051,
+                    2.3475137108219895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arts et M\u00e9tiers",
+                "line": [
+                    "3",
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8654576490143,
+                    2.3566292852022963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Temple",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86668483219092,
+                    2.3615893783321895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R\u00e9publique",
+                "line": [
+                    "3",
+                    "8",
+                    "9",
+                    "11",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86752278273532,
+                    2.3639102091897035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parmentier",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.865162111168765,
+                    2.3746806763746613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Saint-Maur",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86405000324374,
+                    2.3804600339610773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P\u00e8re Lachaise",
+                "line": [
+                    "3",
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.862707009645824,
+                    2.3868684687763917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gambetta",
+                "line": [
+                    "3",
+                    "3B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86495763871021,
+                    2.397945204134055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Bagnolet",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86432836987192,
+                    2.4088234090802456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gallieni",
+                "line": [
+                    "3"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86512770051251,
+                    2.4159299613832097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Courneuve - 8 Mai 1945",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.920308223048146,
+                    2.41011494010648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fort d'Aubervilliers",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.914732203978005,
+                    2.4041315995335246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aubervilliers-Pantin Quatre Chemins",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.90377702537759,
+                    2.392167476863534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de la Villette",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.897833937033234,
+                    2.385823925139694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corentin Cariou",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89467266005628,
+                    2.382291557164633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crim\u00e9e",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.890850052275226,
+                    2.376986898492186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Riquet",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88813277829969,
+                    2.373716808722226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stalingrad",
+                "line": [
+                    "7",
+                    "2",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88426915408342,
+                    2.3677485450457847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Louis Blanc",
+                "line": [
+                    "7",
+                    "7B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88113161393328,
+                    2.3645607656713086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ch\u00e2teau Landon",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87844602475876,
+                    2.362031514557011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poissonni\u00e8re",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8771222783804,
+                    2.3487668713373564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cadet",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87600583260345,
+                    2.344415096740965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Peletier",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.874905599855836,
+                    2.3401785095813556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chauss\u00e9e d'Antin - La Fayette",
+                "line": [
+                    "7",
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87304757164704,
+                    2.333792873371754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pyramides",
+                "line": [
+                    "7",
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86582198182695,
+                    2.3344444083744826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palais Royal - Mus\u00e9e du Louvre",
+                "line": [
+                    "7",
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86255721506266,
+                    2.3368496698017918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pont Neuf",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85850118519015,
+                    2.3417428361760093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pont Marie (Cit\u00e9 des Arts)",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85347342301278,
+                    2.357390130311683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sully - Morland",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.851239660468615,
+                    2.3618024539117846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jussieu",
+                "line": [
+                    "7",
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84610311618607,
+                    2.354868118960175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place Monge",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.842674975013395,
+                    2.352080229377121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Censier - Daubenton",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84024612835756,
+                    2.351560925100919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Gobelins",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83586666451737,
+                    2.35247398363024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tolbiac",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.826145049548565,
+                    2.357168503475677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maison Blanche",
+                "line": [
+                    "7",
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82184184767018,
+                    2.358623303443704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Kremlin-Bic\u00eatre",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.81025257278989,
+                    2.362130413802561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villejuif L\u00e9o Lagrange",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.80435318028833,
+                    2.3639317476477353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villejuif Paul Vaillant-Couturier",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.79630822122641,
+                    2.368195583812103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villejuif - Louis Aragon",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.787572501132765,
+                    2.367716899053842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mairie d'Ivry",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.811210093393306,
+                    2.383498053635828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pierre et Marie Curie",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.81587757774557,
+                    2.377362970985953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte d'Ivry",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.821489035562834,
+                    2.3695112543194927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Choisy",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.820132089232395,
+                    2.3646245490007405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte d'Italie",
+                "line": [
+                    "7"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.81910659655869,
+                    2.3595297331071694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lourmel",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83866086365992,
+                    2.2822419598550767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boucicaut",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.841024160993214,
+                    2.2879184311245595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F\u00e9lix Faure",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84268433479664,
+                    2.2918472203679703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Commerce",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84458485524012,
+                    2.293851708440619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u00c9cole Militaire",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.854861755122315,
+                    2.3064410394306907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Tour-Maubourg",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85766922956403,
+                    2.3105887898739876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Invalides",
+                "line": [
+                    "8",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86076559021953,
+                    2.31469261176289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Concorde",
+                "line": [
+                    "8",
+                    "12",
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86639140809772,
+                    2.322660299759262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Madeleine",
+                "line": [
+                    "8",
+                    "12",
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87005499361729,
+                    2.3256255258686775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Richelieu - Drouot",
+                "line": [
+                    "8",
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87188819022719,
+                    2.33852579124666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grands Boulevards",
+                "line": [
+                    "8",
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87144069801119,
+                    2.343003576097466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bonne Nouvelle",
+                "line": [
+                    "8",
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.870485758917766,
+                    2.348462395204691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Filles du Calvaire",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8630421114174,
+                    2.3665956945709348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-S\u00e9bastien - Froissart",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86094943927989,
+                    2.3671254626151184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chemin Vert",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85708736782028,
+                    2.368095085385991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bastille",
+                "line": [
+                    "8",
+                    "1",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85289238670322,
+                    2.3690404333156594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ledru-Rollin",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85119274222268,
+                    2.375924913735691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Faidherbe - Chaligny",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85011054413369,
+                    2.384028566383108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reuilly - Diderot",
+                "line": [
+                    "8",
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84716440281374,
+                    2.38650735508495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montgallet",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84400507570895,
+                    2.3904000136353645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michel Bizot",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.837000553950986,
+                    2.40228042706469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte Dor\u00e9e",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8350662204656,
+                    2.405749381400099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Charenton",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8336104146937,
+                    2.402372975541869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Libert\u00e9",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82608032193611,
+                    2.406409459132366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charenton - \u00c9coles",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82125590204953,
+                    2.413847237068526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ecole V\u00e9t\u00e9rinaire de Maisons-Alfort",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.814758684006726,
+                    2.422322751702586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maisons-Alfort - Stade",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.80891847848263,
+                    2.434819533389365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maisons-Alfort - Les Juilliottes",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.80310585036659,
+                    2.4457883063759605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cr\u00e9teil - L'\u00c9chat",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.79661083011156,
+                    2.4493695956133714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cr\u00e9teil - Universit\u00e9",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.789915686006935,
+                    2.450529196348293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cr\u00e9teil - Pr\u00e9fecture",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.77975652677895,
+                    2.4593051692912615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pointe du Lac",
+                "line": [
+                    "8"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.768752248609914,
+                    2.464290193819998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pont de S\u00e8vres",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82968726438348,
+                    2.2305185727726955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Billancourt",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83183051284947,
+                    2.237965973200589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marcel Sembat",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83359298218974,
+                    2.243583048618053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Saint-Cloud",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83795840561949,
+                    2.2570461929221506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Exelmans",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84258027627653,
+                    2.259800845144346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michel-Ange - Molitor",
+                "line": [
+                    "9",
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.845018229223314,
+                    2.2617267203388547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michel-Ange - Auteuil",
+                "line": [
+                    "9",
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.847826803846914,
+                    2.2639643691609095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jasmin",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.852462147844555,
+                    2.268219083521012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ranelagh",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.855306214887065,
+                    2.270032697561899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Muette",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85809196689865,
+                    2.2740962446697224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue de la Pompe",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.863951708879945,
+                    2.2778858979590564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I\u00e9na",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86468583928867,
+                    2.293906396859107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alma - Marceau",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86464714790582,
+                    2.30110435239267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Franklin D. Roosevelt",
+                "line": [
+                    "9",
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86891362590731,
+                    2.309466604269489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Philippe-du-Roule",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87215513107743,
+                    2.3101372056878247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miromesnil",
+                "line": [
+                    "9",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.873529311189856,
+                    2.315566070022106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Augustin",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87454661293485,
+                    2.3210135978085997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oberkampf",
+                "line": [
+                    "9",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.864710831843304,
+                    2.3683802039876634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Ambroise",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86141665790915,
+                    2.3738805382115475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Voltaire",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85766243438601,
+                    2.3800316941488044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charonne",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.854939443448494,
+                    2.384782396448888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue des Boulets",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85221407333194,
+                    2.3891047050322425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buzenval",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85176243983227,
+                    2.401170769368413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mara\u00eechers",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85265013095636,
+                    2.4060490065790447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Montreuil",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85348263120656,
+                    2.410718154027495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robespierre",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.855673808550314,
+                    2.4229730864963517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Croix de Chavaux",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.857992585158016,
+                    2.4358546126745826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mairie de Montreuil",
+                "line": [
+                    "9"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8622744369706,
+                    2.4418193772459085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boulogne Pont de Saint-Cloud",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84067248206251,
+                    2.2283125898228056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boulogne Jean Jaur\u00e8s",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84202743863004,
+                    2.2390602250207654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chardon Lagache",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84508829917885,
+                    2.26690547594029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mirabeau",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84707750734599,
+                    2.2730641263728333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Javel - Andr\u00e9 Citro\u00ebn",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84613399207731,
+                    2.2780265012563827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charles Michels",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84648312793993,
+                    2.285622677583146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avenue \u00c9mile Zola",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84699762180346,
+                    2.295032489090349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S\u00e9gur",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84719683002449,
+                    2.3071949620231282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duroc",
+                "line": [
+                    "10",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84686410954085,
+                    2.316387885634838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vaneau",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.848797538444856,
+                    2.3212894797753387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S\u00e8vres - Babylone",
+                "line": [
+                    "10",
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85120731010135,
+                    2.3263711397146785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mabillon",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85290204083125,
+                    2.3351148186705837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cluny - La Sorbonne",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.850910304297514,
+                    2.3449590918432683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maubert - Mutualit\u00e9",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.850152580292225,
+                    2.348249878548578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cardinal Lemoine",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84670003526311,
+                    2.3513280016731763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gare d'Austerlitz",
+                "line": [
+                    "10",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84231173289379,
+                    2.364844679815812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u00c9glise d'Auteuil",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84714336145718,
+                    2.2691113890218917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte d'Auteuil",
+                "line": [
+                    "10"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84812886119474,
+                    2.2582639186231943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte des Lilas",
+                "line": [
+                    "3B",
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8769357138538,
+                    2.406736971509564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Fargeau",
+                "line": [
+                    "3B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.871887658077014,
+                    2.404361344448241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pelleport",
+                "line": [
+                    "3B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86846488701483,
+                    2.4014967922879253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosny-Bois-Perrier",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88307064342213,
+                    2.4806093523524932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coteaux Beauclair",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88212212689498,
+                    2.4673647804495924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Dhuys",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87808331706366,
+                    2.4651563455784005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montreuil - H\u00f4pital",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87833284108111,
+                    2.454682210916966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Romainville-Carnot",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88369120755144,
+                    2.440689824547642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Serge Gainsbourg",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88125303440166,
+                    2.4271621685895237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mairie des Lilas",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87974365006289,
+                    2.4162978208011863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T\u00e9l\u00e9graphe",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87551038418075,
+                    2.3986480899605933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place des F\u00eates",
+                "line": [
+                    "11",
+                    "7B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87683112600793,
+                    2.393049493433904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jourdain",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.875247348641416,
+                    2.389325378910096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pyr\u00e9n\u00e9es",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87381879018058,
+                    2.3852029155695313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belleville",
+                "line": [
+                    "11",
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.872119844833136,
+                    2.376662598516844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goncourt",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8700070178386,
+                    2.3707644347484003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rambuteau",
+                "line": [
+                    "11"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86119015695036,
+                    2.3532739485947713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H\u00f4tel de Ville",
+                "line": [
+                    "11",
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85747657076017,
+                    2.3517458310409864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mairie d'Aubervilliers",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.913739225808136,
+                    2.3807826993163266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aim\u00e9 C\u00e9saire",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.90838312983791,
+                    2.378035995881576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Front Populaire",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.906763048164294,
+                    2.365777177193171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de la Chapelle",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89741064164834,
+                    2.359103857300198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marx Dormoy",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89057957856722,
+                    2.359808478084024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jules Joffrin",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.892492268201934,
+                    2.3443200293804827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lamarck - Caulaincourt",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8896991322768,
+                    2.338463589982122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abbesses",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.884392717991425,
+                    2.338394635220906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pigalle",
+                "line": [
+                    "12",
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88210915335775,
+                    2.3377145750785253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Georges",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87836199275949,
+                    2.3374546190400913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Notre-Dame-de-Lorette",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8760350312806,
+                    2.3378736192226386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trinit\u00e9 - d'Estienne d'Orves",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87633650730735,
+                    2.333049172418236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Assembl\u00e9e Nationale",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86107193952608,
+                    2.320575836647556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solf\u00e9rino",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85853194972854,
+                    2.3230759642515415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue du Bac",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85588467848543,
+                    2.3256998984524113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rennes",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84833282904063,
+                    2.327787184787387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Notre-Dame des Champs",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84508150807547,
+                    2.328564944227944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Falgui\u00e8re",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84444335195695,
+                    2.3175087114640447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Volontaires",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84152824313428,
+                    2.3079137063600563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vaugirard",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83953628376544,
+                    2.300977822126098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Convention",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83713505380496,
+                    2.2963913864809173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Versailles",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83251953251351,
+                    2.2877417091423347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corentin Celton",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82682329515912,
+                    2.2789586605256367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mairie d'Issy",
+                "line": [
+                    "12"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82434428766646,
+                    2.273558168023932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte Dauphine",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87139679524832,
+                    2.2776327175452717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Victor Hugo",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8698545716049,
+                    2.2859020006220643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ternes",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8782007528283,
+                    2.2981136521983068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Courcelles",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87926525411311,
+                    2.303294362425212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monceau",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.880568770126835,
+                    2.309412967374703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rome",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.882256139435015,
+                    2.3214039779193896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place de Clichy",
+                "line": [
+                    "2",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88371495624264,
+                    2.3275850064347483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blanche",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88376635447715,
+                    2.3324843754343627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anvers",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.882868568843925,
+                    2.3441548403302916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Chapelle",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.884386410852784,
+                    2.3604041692740987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jaur\u00e8s",
+                "line": [
+                    "2",
+                    "7B",
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.882322670311865,
+                    2.370627562727149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colonel Fabien",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87764980852146,
+                    2.370467574793864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Couronnes",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": "Le 10 août 1903, un incendie se déclare dans la station Couronnes, provoquant la mort de 84 personnes. Cette catastrophe, la plus meutrière de l'histoire du métro parisien, a conduit à une refonte des normes de sécurité dans le métro parisien. Notamment en remplaçant les rames en bois par des rames métalliques."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86919334513237,
+                    2.3802889829271936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M\u00e9nilmontant",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.866390140145434,
+                    2.3834303882303045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Philippe Auguste",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85808942813576,
+                    2.390497596745289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alexandre Dumas",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.856199097341126,
+                    2.394591418672128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avron",
+                "line": [
+                    "2"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85161645805963,
+                    2.3980666384995177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La D\u00e9fense (Grande Arche)",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89181786646099,
+                    2.2379881830988277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esplanade de la D\u00e9fense",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88834989394862,
+                    2.249931086743073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pont de Neuilly",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8854985504452,
+                    2.2585225729481575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Sablons",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88129083793358,
+                    2.271904762259129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte Maillot",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.877805650437985,
+                    2.2822896139411903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Argentine",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87566737659971,
+                    2.289435418542214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "George V",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87203776458909,
+                    2.300759784978918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Champs-\u00c9lys\u00e9es - Clemenceau",
+                "line": [
+                    "1",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86752854491141,
+                    2.3141435532591585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuileries",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.864477839314645,
+                    2.3296780947116416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Louvre - Rivoli",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86078090878698,
+                    2.3409026134809903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Paul (Le Marais)",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85518742160445,
+                    2.3608852562751967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gare de Lyon",
+                "line": [
+                    "1",
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84517941924201,
+                    2.3731285878615833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Vincennes",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84700773108863,
+                    2.4108049967015006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Mand\u00e9",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.846238208060065,
+                    2.4189623545327077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B\u00e9rault",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84540614839331,
+                    2.4292049740990573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ch\u00e2teau de Vincennes",
+                "line": [
+                    "1"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84431751431355,
+                    2.440540095406114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Denis - Pleyel",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.91891285848584,
+                    2.3457474221109633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mairie de Saint-Ouen",
+                "line": [
+                    "14",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.91183169004087,
+                    2.333664469737443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Ouen",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.90521399238465,
+                    2.3226598821131716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Clichy",
+                "line": [
+                    "14",
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89446469729532,
+                    2.3135454826279425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pont Cardinet",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.888102389888395,
+                    2.3151908648850013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cour Saint-Emilion",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83334999725014,
+                    2.386464909364189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Biblioth\u00e8que Fran\u00e7ois Mitterrand",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.830006377536904,
+                    2.3764237443204546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olympiades",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.827123441429386,
+                    2.3669231215308075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H\u00f4pital Bic\u00eatre",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.809971090725966,
+                    2.349946533239157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villejuif - Gustave Roussy",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.79323843160607,
+                    2.349229361846555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'Ha\u00ff-les-Roses",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.77532646395088,
+                    2.354991210566311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chevilly-Larue\u200b (March\u00e9 International\u200b)",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.75848356146962,
+                    2.367374604185919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thiais - Orly\u200b (Pont de Rungis\u200b)",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.74683536938685,
+                    2.3723847511214924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A\u00e9roport d'Orly",
+                "line": [
+                    "14"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.72769656117165,
+                    2.362458738946496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ch\u00e2tillon-Montrouge",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.81075140670139,
+                    2.301717705004608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malakoff - Rue Etienne Dolet",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.81533836595972,
+                    2.2971240100835835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malakoff - Plateau de Vanves",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.82214529059278,
+                    2.2984111759006174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Vanves",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.827613464004294,
+                    2.3053323866574735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plaisance",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83175036306747,
+                    2.313860489344306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pernety",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.834078679774976,
+                    2.318393706614701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ga\u00eet\u00e9",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83854469308166,
+                    2.322463569405974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Fran\u00e7ois-Xavier",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8512787565696,
+                    2.314407403528732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varenne",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85662498274656,
+                    2.315113930509657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Li\u00e8ge",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87953493737576,
+                    2.3268526712397555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Fourche",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.887424510518066,
+                    2.3256869607667356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guy M\u00f4quet",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8930014419616,
+                    2.327483258626126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Saint-Ouen",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89749783732745,
+                    2.3290483407446505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garibaldi",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.906372391923206,
+                    2.331962553647662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carrefour Pleyel",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.91973260804976,
+                    2.3435346741834655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Denis - Porte de Paris",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.929922750445755,
+                    2.3561729251015997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Basilique de Saint-Denis",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.9367747982655,
+                    2.359431626687363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Denis - Universit\u00e9",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.9458307173959,
+                    2.364530774042862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brochant",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89062201554889,
+                    2.3201902468999456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mairie de Clichy",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.90349897462669,
+                    2.3058484063578857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabriel P\u00e9ri",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.91639290208823,
+                    2.2946921563609406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Agnettes",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.92308777796361,
+                    2.286263202479002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asni\u00e8res - Gennevilliers Les Courtilles",
+                "line": [
+                    "13"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.93060364140038,
+                    2.284372100658843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pr\u00e9-Saint-Gervais",
+                "line": [
+                    "7B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8801595806643,
+                    2.398580770693528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Danube",
+                "line": [
+                    "7B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88194921492064,
+                    2.393228471227492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botzaris",
+                "line": [
+                    "7B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.879485546434765,
+                    2.3889045312503923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buttes Chaumont",
+                "line": [
+                    "7B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.87846102976502,
+                    2.3816013817737467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bolivar",
+                "line": [
+                    "7B"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8807897342535,
+                    2.374138505943147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campo-Formio",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83554293374935,
+                    2.3587419566993457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Marcel",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.83847698406796,
+                    2.3608176665940044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quai de la Rap\u00e9e",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84649085420337,
+                    2.365992890937552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Br\u00e9guet-Sabin",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.8562178110506,
+                    2.3703346849773035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Richard-Lenoir",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.85985966744055,
+                    2.3719501400872653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jacques Bonsergent",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.870666468034706,
+                    2.3611315892483544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laumi\u00e8re",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88513384808583,
+                    2.3793909893523923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ourcq",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88691595319499,
+                    2.386652016759884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porte de Pantin",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.88845921134684,
+                    2.3921229723281483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hoche",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89128939386479,
+                    2.4032119887626737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u00c9glise de Pantin",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.893163974098265,
+                    2.413119553706935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bobigny-Pantin - Raymond Queneau",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.89560207433252,
+                    2.426308679232036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bobigny Pablo Picasso",
+                "line": [
+                    "5"
+                ],
+                "origin": "",
+                "description": "",
+                "fun_fact": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.90636679503056,
+                    2.449301336646573
+                ]
+            }
+        }
+    ]
+}
